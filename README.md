@@ -4,6 +4,8 @@
 由于OpenAI官方对国内用户的支付限制（不支持支付宝、微信支付和国内信用卡），直接订阅ChatGPT Plus服务存在一定困难14。本文将为你详细介绍几种国内亲测可行的充值方式，重点推荐通过代充平台完成订阅，让你轻松解锁GPT-4、GPT-4o等更强大的AI模型。
 <img width="1134" height="521" alt="image" src="https://github.com/user-attachments/assets/86d3c7c4-a5e0-46e5-95ce-070c8921683c" />
 
+推荐平台：[gpt.juzixp.com](https://gpt.juzipx.com)
+
 ## 为什么国内用户需要代充ChatGPT Plus？
 
 OpenAI官方仅支持国际信用卡（Visa/Mastercard）和部分国家的PayPal账户，对国内用户非常不友好45。虚拟信用卡绑定失败率高，且经常面临IP风控和账户封禁风险4。代充服务应运而生，为国内用户提供了便捷稳定的解决方案。
